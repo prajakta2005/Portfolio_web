@@ -1,4 +1,4 @@
-# 🌟 Flutter Portfolio App
+# 🌟 Flutter Portfolio 
 
 A modern, responsive portfolio application built using **Flutter** to showcase my projects, technical skills, and professional journey.
 
@@ -19,7 +19,7 @@ The application runs smoothly across **Android, Web, and Desktop** platforms.
 
 ---
 
-## ✨ Features
+## ✨ Features (or objectives currently)
 
 - 📱 Fully Responsive Design  
 - 🎨 Clean and Modern UI  
@@ -39,7 +39,6 @@ The application runs smoothly across **Android, Web, and Desktop** platforms.
 - Material Design
 - Responsive Layout Techniques
 
-> (Add Firebase / Provider / Riverpod / Bloc if used)
 
 ---
 
